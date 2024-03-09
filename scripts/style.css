@@ -1,0 +1,17 @@
+/* scroll modern */
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0786b8;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f11e;
+  border-radius: 5px;
+}
+
+/* scroll modern */
